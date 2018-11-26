@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart" line="64" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bbe0ca6-7132-43ad-8390-470705c3ba66" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="new_dog_form.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="73" lean-forward="true" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Penci</find>
+      <find>Gra</find>
+      <find>Head</find>
+      <find>should</find>
+      <find>print</find>
+      <find>controller</find>
+      <find>_slow</find>
+      <find>head</find>
+      <find>Typed</find>
+      <find>TypedMi</find>
+      <find>redux</find>
+      <find>next(action)</find>
+      <find>next(</find>
+      <find>next(ac</find>
+      <find>change</find>
+      <find>mounted</find>
+      <find>initState() {</find>
+      <find>init`</find>
+      <find>initState</find>
+      <find>didUpdateWid</find>
+      <find>locations</find>
+      <find>findUserLocation</find>
+      <find>MapPro</find>
+      <find>get</find>
+      <find>&quot;G</find>
+      <find>get my</find>
+      <find>static</find>
+      <find>nextUrl</find>
+      <find>StaticMap</find>
+      <find>onChanged:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/redux_app/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/models/app_state.dart" />
+        <option value="$PROJECT_DIR$/blank_flutter_app/.gitignore" />
+        <option value="$PROJECT_DIR$/basic_flutter_app/.gitignore" />
+        <option value="$PROJECT_DIR$/advanced_app/.gitignore" />
+        <option value="$PROJECT_DIR$/redux_app/.gitignore" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/pages/home_screen.dart" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/basic_flutter_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/app_state_container.dart" />
+        <option value="$PROJECT_DIR$/advanced_app/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/screens/home_screen.dart" />
+        <option value="$PROJECT_DIR$/advanced_app/lib/app.dart" />
+        <option value="$PROJECT_DIR$/redux_app/ios/Podfile" />
+        <option value="$PROJECT_DIR$/redux_app/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/redux_app/lib/reducers/auth_reducer.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/reducers/counter_reducer.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/pages/auth_page.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/pages/loading_page.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/main.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/screens/auth_screen.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/screens/home_screen.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/app.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/models/app_state.dart" />
+        <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/app_state_container.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/routes.dart" />
+        <option value="$PROJECT_DIR$/custom_loader/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lifecycle_hooks/lib/counter.dart" />
+        <option value="$PROJECT_DIR$/lifecycle_hooks/lib/app_state_container.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/_temp.dart" />
+        <option value="$PROJECT_DIR$/basic_flutter_app/lib/dog_list.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/sky.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/animations.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/planets.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/star.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/shooting_star.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/girl.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/README.md" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lifecycle_hooks/lib/main.dart" />
+        <option value="$PROJECT_DIR$/blank_flutter_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/google_static_maps/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/google_static_maps/ios/Runner/Info.plist" />
+        <option value="$PROJECT_DIR$/custom_loader/lib/animations.dart" />
+        <option value="$PROJECT_DIR$/google_static_maps/lib/map_provider.dart" />
+        <option value="$PROJECT_DIR$/google_static_maps/lib/main.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/middlewares/auth_middleware.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/redux_app/lib/reducers/app_reducer.dart" />
+        <option value="$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="558" />
+    <option name="y" value="68" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_flutter_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_flutter_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redux_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redux_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.dogs_app">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="advanced_app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/inherited_widget_authentication/lib/main.dart" />
+    </configuration>
+    <configuration name="animation_loader" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/custom_loader/lib/main.dart" />
+    </configuration>
+    <configuration name="blank_app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/blank_flutter_app/lib/main.dart" />
+    </configuration>
+    <configuration name="dogs_app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/basic_flutter_app/lib/main.dart" />
+    </configuration>
+    <configuration name="lifecycle squares" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lifecycle_hooks/lib/main.dart" />
+    </configuration>
+    <configuration name="redux_app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/redux_app/lib/main.dart" />
+    </configuration>
+    <configuration name="starsanimation" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/stars_animation/lib/main.dart" />
+    </configuration>
+    <configuration name="static_map" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/google_static_maps/lib/main.dart" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="flutter_by_example_apps" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.advanced_app" />
+      <item itemvalue="Flutter.static_map" />
+      <item itemvalue="Flutter.animation_loader" />
+      <item itemvalue="Flutter.blank_app" />
+      <item itemvalue="Flutter.dogs_app" />
+      <item itemvalue="Flutter.lifecycle squares" />
+      <item itemvalue="Flutter.redux_app" />
+      <item itemvalue="Flutter.starsanimation" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bbe0ca6-7132-43ad-8390-470705c3ba66" name="Default" comment="" />
+      <created>1523827934139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523827934139</updated>
+      <workItem from="1523827937196" duration="686000" />
+      <workItem from="1523830932190" duration="1653000" />
+      <workItem from="1523896712673" duration="5000" />
+      <workItem from="1523916767878" duration="4482000" />
+      <workItem from="1524013841012" duration="3005000" />
+      <workItem from="1524180154258" duration="1046000" />
+      <workItem from="1524343113981" duration="1610000" />
+      <workItem from="1524416531103" duration="5722000" />
+      <workItem from="1524502548249" duration="487000" />
+      <workItem from="1525533258664" duration="1856000" />
+      <workItem from="1525625678239" duration="4000" />
+      <workItem from="1525627835809" duration="858000" />
+      <workItem from="1525635690946" duration="1000" />
+      <workItem from="1525705809033" duration="1403000" />
+      <workItem from="1525710617018" duration="1009000" />
+      <workItem from="1525787896159" duration="1025000" />
+      <workItem from="1525788996731" duration="3428000" />
+      <workItem from="1525876613374" duration="1321000" />
+      <workItem from="1525878048288" duration="3753000" />
+      <workItem from="1525974581074" duration="685000" />
+      <workItem from="1526135111854" duration="1720000" />
+      <workItem from="1526482650568" duration="7000" />
+      <workItem from="1526482732962" duration="862000" />
+      <workItem from="1526568706447" duration="3000000" />
+      <workItem from="1526653141878" duration="3683000" />
+      <workItem from="1526657053155" duration="94000" />
+      <workItem from="1526767056373" duration="25199000" />
+      <workItem from="1526997277648" duration="1174000" />
+      <workItem from="1527084803698" duration="771000" />
+      <workItem from="1527085700722" duration="40000" />
+      <workItem from="1527171642440" duration="41000" />
+      <workItem from="1527172020499" duration="1641000" />
+      <workItem from="1527347851843" duration="3590000" />
+      <workItem from="1527461097207" duration="2000" />
+      <workItem from="1527525526685" duration="6418000" />
+      <workItem from="1527809964951" duration="2000" />
+      <workItem from="1527810098429" duration="561000" />
+      <workItem from="1527811331466" duration="260000" />
+      <workItem from="1527875867324" duration="2504000" />
+      <workItem from="1527962297055" duration="201000" />
+      <workItem from="1528037981699" duration="6227000" />
+      <workItem from="1528207628677" duration="1406000" />
+      <workItem from="1528989206527" duration="6000" />
+      <workItem from="1529079758625" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.506183" side_tool="true" weight="0.5124521" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49381697" weight="0.42647058" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6051113" weight="0.2564338" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10154241" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48850575" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" visible="true" weight="0.1433162" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32662836" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24984147" />
+      <window_info anchor="bottom" id="Android Monitor" order="8" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Captures" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32854405" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$USER_HOME$/Development/flutter/packages/flutter/lib/src/widgets/framework.dart</url>
+          <line>236</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_app/lib/reducers/app_reducer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_app/lib/reducers/app_reducer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_flutter_app/lib/new_dog_form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="73" lean-forward="true" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/leaflet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>google_static_maps</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
