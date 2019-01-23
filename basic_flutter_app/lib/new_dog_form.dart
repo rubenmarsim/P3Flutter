@@ -16,7 +16,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
       Scaffold.of(context).showSnackBar(
             new SnackBar(
               backgroundColor: Colors.redAccent,
-              content: new Text('Pups neeed names!'),
+              content: new Text('new character need name!'),
             ),
           );
     } else {
@@ -30,7 +30,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text('Add a new Dog'),
+        title: new Text('Add a new Star Wars character'),
         backgroundColor: Colors.black87,
       ),
       body: new Container(
@@ -47,7 +47,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 child: new TextField(
                     controller: nameController,
                     decoration: new InputDecoration(
-                      labelText: 'Name the Pup',
+                      labelText: 'Name the character',
                     )),
               ),
               new Padding(
@@ -55,7 +55,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 child: new TextField(
                     controller: locationController,
                     decoration: new InputDecoration(
-                      labelText: "Pups location",
+                      labelText: "Planet location",
                     )),
               ),
               new Padding(
@@ -63,7 +63,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 child: new TextField(
                     controller: descriptionController,
                     decoration: new InputDecoration(
-                      labelText: 'All about the pup',
+                      labelText: 'All about the character',
                     )),
               ),
               new Padding(
@@ -72,7 +72,7 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                   builder: (context) {
                     return new RaisedButton(
                       color: Colors.indigoAccent,
-                      child: new Text('Submit Pup'),
+                      child: new Text('Submit character'),
                       onPressed: () => submitPup(context),
                     );
                   },
