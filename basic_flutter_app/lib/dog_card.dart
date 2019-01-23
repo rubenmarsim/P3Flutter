@@ -60,7 +60,7 @@ class DogCardState extends State<DogCard> {
         ),
         alignment: Alignment.center,
         child: new Text(
-          'DOGGO',
+          'Star Wars Character',
           textAlign: TextAlign.center,
         ));
 

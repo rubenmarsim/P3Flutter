@@ -13,9 +13,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'We Rate Dogs',
+      title: 'We Rate Star Wars',
       theme: new ThemeData(brightness: Brightness.dark),
-      home: new MyHomePage(title: 'We Rate Dogs'),
+      home: new MyHomePage(title: 'We Rate Star Wars'),
     );
   }
 }
@@ -31,12 +31,12 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   var initialDoggos = <Dog>[]
-    ..add(new Dog('Ruby', 'Portland, OR, USA',
-        'Ruby is a very good girl. Yes: Fetch, loungin\'. No: Dogs who get on furniture.'))
-    ..add(new Dog('Rex', 'Seattle, WA, USA', 'A Very Good Boy'))
-    ..add(new Dog('Rod Stewart', 'Prague, CZ', 'A Very Good Boy'))
-    ..add(new Dog('Herbert', 'Dallas, TX, USA', 'A Very Good Boy'))
-    ..add(new Dog('Buddy', 'North Pole, Earth', 'A Very Good Boy'));
+    ..add(new Dog('Luke Skywalker', 'tatooine',
+        'Procedente de la colonia de asteroides de Polis Massa.'))
+    ..add(new Dog('C-3PO', 'tatooine', 'Se trata de un androide de protocolo'))
+    ..add(new Dog('R2-D2', 'naboo', 'Es un droide astromecanico, contraparte y amigo de C-3PO'))
+    ..add(new Dog('Darth Vader', 'tatooine', 'tambien conocido por su nombre de nacimiento Anakin Skywalker'))
+    ..add(new Dog('Leia Organa', 'tatooine', 'La Princesa Leia Organa de Alderaan '));
 
   Future<Null> _showNewDogForm() async {
     Dog newDog = await Navigator.of(context).push(
