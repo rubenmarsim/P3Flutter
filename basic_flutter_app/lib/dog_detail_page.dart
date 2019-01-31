@@ -72,7 +72,7 @@ class _DogDetailPageState extends State<DogDetailPage> {
         children: <Widget>[
           dogImage,
           new Text(
-            widget.dog.name + '  🎾',
+            widget.dog.name,
             style: new TextStyle(fontSize: 32.0),
           ),
           new Text(
